@@ -1,3 +1,4 @@
+# DQN에서 action 선택하는 부분과 target 계산하는 부분만 바꿔서 완성
 import sys
 import gym
 import pylab
