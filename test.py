@@ -14,6 +14,3 @@ print(tf.reduce_mean(x, 0))  # [1.5, 1.5]
 print(tf.reduce_mean(x, 1))  # [1.,  2.]
 
 print(tf.__version__)
-'2.0.0-alpha0'
-
-sudo pip3 install tensorflow == 2.0.0a0
