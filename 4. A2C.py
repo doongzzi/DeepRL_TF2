@@ -1,5 +1,3 @@
-# DDQN에서 Network부분만 떼내어 duel로 구성하여 완성. tf reduce를 빼주고 레이어합하는 부분을 잘 봐둘것.
-# https://jsideas.net/dqn/ 매우 도움되는 사이트. 참고.
 import sys
 import gym
 import pylab
